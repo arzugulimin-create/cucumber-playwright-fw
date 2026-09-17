@@ -12,7 +12,6 @@
     "test:headed": "cross-env HEADED=true cucumber-js",
     "test:tags": "cucumber-js --tags",
     "test:login": "cucumber-js features/login.feature",
-    "test:specific": "cucumber-js features/sign-in.feature",
     "generate:report": "ts-node scripts/generate-report.ts",
     "playwright:install": "playwright install",
     "playwright:install:deps": "playwright install --with-deps",
