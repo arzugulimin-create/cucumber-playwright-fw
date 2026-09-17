@@ -1,0 +1,14 @@
+{
+  "standard": {
+    "username": "student01@zinc.test",
+    "password": "9pJolA7GBQec",
+    "firstName": "Jane",
+    "lastName": "Smith"
+  },
+  "locked": {
+    "username": "locked_user",
+    "password": "secret_sauce",
+    "firstName": "John",
+    "lastName": "Doe"
+  }
+}

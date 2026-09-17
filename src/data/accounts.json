@@ -1,0 +1,14 @@
+{
+  "checking": {
+    "accountNumber": "1001",
+    "type": "Checking",
+    "balance": 2500.0,
+    "owner": "standard_user"
+  },
+  "savings": {
+    "accountNumber": "1002",
+    "type": "Savings",
+    "balance": 8500.0,
+    "owner": "standard_user"
+  }
+}
